@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+canvas{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px green;
+}
+#speed,#volume{
+    font-size: 23px;
+    margin: 15px;
+}
